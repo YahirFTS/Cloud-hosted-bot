@@ -1,2 +1,2 @@
 # Cloud-hosted-bot
-ye
+Practica para programar un bot de discord
